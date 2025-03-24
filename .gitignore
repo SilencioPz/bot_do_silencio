@@ -1,0 +1,25 @@
+# Ignora o JAR gerado pelo Maven
+/target/
+*.jar
+*.war
+*.ear
+
+# Ignora arquivos de IDE (IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignora logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Ignora arquivos do sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de configuração local (se houver)
+application.properties
+application.yml
+.env
