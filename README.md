@@ -1,11 +1,44 @@
-<h1 style="font-size: 18px; text-align: center; font-family: serif;">Um Bot de testes no Telegram, usando Java</h1>
+# 🤖 Bot de Testes no Telegram (Java)
 
-<p style="font-size: 14px; text-align: center; font-family: serif;">
-Um Bot simples de testes, usando linguagem coloquial. Possui várias opções, feito com o propósito de entender como pode ser empregado.
-<br>
-Em uma empresa, é extremamente útil e funcional, facilitando a vida dos responsáveis e evitando gastos com pessoal como o objetivo de atender os clientes - sendo que o bot faz o 
-<br>
-mesmo, de forma rápida e direta com um determinado setor.
-<br>
-Penso em retornar neste projeto no futuro, com uma versão para Telegram e, se tudo der certo, uma para WhatsApp - que é pago. Logicamente, utilizarei para a minha empresa.
+<p align="center">
+  <em>Um bot simples de testes, usando linguagem coloquial</em>
 </p>
+
+---
+
+## ✨ Sobre o Projeto
+
+Um Bot de Telegram feito em Java, com respostas descontraídas e teclado interativo.  
+**Objetivo:** Demonstrar como bots automatizados podem:  
+- Agilizar atendimento em empresas  
+- Reduzir custos com pessoal  
+- Oferecer respostas rápidas e diretas  
+
+---
+
+## 🚀 Futuro do Projeto
+
+| Versão          | Status       | Observação                          |
+|-----------------|-------------|-----------------------------------|
+| Telegram        | ✅ Pronto    | Atualizado e funcional            |
+| WhatsApp        | 🚧 Planejado | Requer API paga (Twilio/WhatsApp) |
+
+---
+
+## 📝 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/bot-telegram-java.git
+
+2 . Execute o bot:
+    
+    java -jar target/BotDoSilencio17-1.0-SNAPSHOT.jar
+
+   🔧 Tecnologias
+<div align="center">
+Ferramenta	Versão	Uso
+Java	17	Linguagem principal
+TelegramBots API	6.5.0	Integração com o Telegram
+Maven	3.9.0	Gerenciamento de dependências
+</div><p align="center"> <strong>💡 Ideia:</strong> Futuramente integrar este bot em sistemas empresariais para automação de atendimento. </p> ```
